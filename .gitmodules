@@ -1,6 +1,6 @@
 [submodule "shop-launcher"]
-	path = apps/shop-launcher
+	path = examples/shop-launcher
 	url = https://github.com/roadriver-tech/shop-launcher.git
-[submodule "apps/english-sentence-analyzer"]
-	path = apps/english-sentence-analyzer
+[submodule "examples/english-sentence-analyzer"]
+	path = examples/english-sentence-analyzer
 	url = https://github.com/roadriver-tech/english-sentence-analyzer.git
